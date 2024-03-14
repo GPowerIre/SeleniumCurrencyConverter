@@ -1,0 +1,64 @@
+{
+  "uuid": "a785c26b-9b2b-4a62-baa4-f83907bb881e-tr-0-1001",
+  "historyId": "ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions",
+  "fullName": "ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-UD2J45C"
+    },
+    {
+      "name": "package",
+      "value": "ExpleoCurrencyConverter"
+    },
+    {
+      "name": "testMethod",
+      "value": "CurrencyConversions"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyConversionTests"
+    }
+  ],
+  "links": [],
+  "name": "CurrencyConversions",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CurrencyConversions"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CurrencyConversions",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9e297009af814837b694fd22b461abaf-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1710440890984,
+      "stop": 1710440914558
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1710440890983,
+  "stop": 1710440914563
+}

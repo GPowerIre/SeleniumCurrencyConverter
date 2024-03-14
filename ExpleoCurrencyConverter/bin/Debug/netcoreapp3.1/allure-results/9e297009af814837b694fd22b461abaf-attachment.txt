@@ -1,0 +1,2 @@
+ConvertedYEN: 645.9182 Japanese Yen
+YENCurrencyCalculated: 645.9

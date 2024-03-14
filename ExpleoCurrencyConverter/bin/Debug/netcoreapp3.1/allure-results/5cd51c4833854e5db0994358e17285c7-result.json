@@ -1,0 +1,67 @@
+{
+  "uuid": "858d1930-87fd-416f-b5db-2bb6d89249e4-tr-0-1001",
+  "historyId": "ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions",
+  "fullName": "ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-UD2J45C"
+    },
+    {
+      "name": "package",
+      "value": "ExpleoCurrencyConverter"
+    },
+    {
+      "name": "testMethod",
+      "value": "CurrencyConversions"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyConversionTests"
+    }
+  ],
+  "links": [],
+  "name": "CurrencyConversions",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions() in C:\\Users\\defaultuser0.DESKTOP-1T744UE\\source\\repos\\ExpleoCurrencyConverter\\ExpleoCurrencyConverter\\CurrencyConverterTests.cs:line 68\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CurrencyConversions",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions() in C:\\Users\\defaultuser0.DESKTOP-1T744UE\\source\\repos\\ExpleoCurrencyConverter\\ExpleoCurrencyConverter\\CurrencyConverterTests.cs:line 68\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "712f3200839b4b26875dedba1c395f27-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1710439676775,
+      "stop": 1710439691356
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1710439676774,
+  "stop": 1710439691361
+}

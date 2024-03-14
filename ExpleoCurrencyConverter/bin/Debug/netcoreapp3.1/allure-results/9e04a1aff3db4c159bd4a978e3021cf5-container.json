@@ -1,0 +1,28 @@
+{
+  "uuid": "1243c7f4-0e11-4d5b-8649-f035cadff917-tc-0-1000",
+  "name": "ExpleoCurrencyConverter.CurrencyConversionTests.CurrencyConversions",
+  "children": [
+    "a0908764-017b-41c4-9680-3381f5f880d9-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1710442813591,
+      "stop": 1710442813591
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1710442792221,
+  "stop": 1710442813636
+}
